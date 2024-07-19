@@ -4,8 +4,10 @@
 
 # Chicken Tender
 
-A simple React.js application to find the chicken of your dreams!
+A simple application to find the chicken of your dreams!
 Swipe left or right depending on your preferences and get matched when they like you too.
+
+Project made to learn React.js using Vite and Bootstrap.
 
 ## Features
 
