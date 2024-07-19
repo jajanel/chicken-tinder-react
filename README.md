@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/oPeRdsx.png)
+![Logo]([https://i.imgur.com/oPeRdsx.png](https://i.imgur.com/NHG6ss8.png))
 
 
 # Chicken Tender
