@@ -5,7 +5,7 @@ return(
     <>
         <div className="card cardStyle text-center">
             <div className="card-header">
-            <img src="https://cdn.pfps.gg/pfps/6290-cool-chicken.png" className="card-img-top img-fluid rounded-3 "
+            <img src="https://cdn.pfps.gg/pfps/6290-cool-chicken.png" className="card-img-top img-fluid cardImage rounded-3 "
                  alt="cool chicken"/>
             </div>
             <div className="card-body">
