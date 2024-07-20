@@ -1,7 +1,7 @@
 import Header from "./Header.jsx";
-import Card from "./Card.jsx";
 import SwipeButtons from "./SwipeButtons.jsx";
 import Match from "./Match.jsx";
+import SwiperCard from "./SwiperCard.jsx";
 
 export default function App() {
 
@@ -9,7 +9,7 @@ export default function App() {
 
       <div className="App">
           <Header/>
-          <Card/>
+          <SwiperCard/>
           <Match/>
           <SwipeButtons/>
       </div>
