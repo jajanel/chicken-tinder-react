@@ -1,10 +1,27 @@
-.cardStyle{
-    width: 50%;
-    margin: auto;
+
+.btn-circle.btn-xl {
+    width: 80px;
+    height: 80px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 12px;
+    text-align: center;
 }
 
-.cardImage{
-    width: 60%;
-    height: 100%;
-    border-radius: 12px;
+
+.swiper {
+    width: 28rem;
+    height: 42rem;
+}
+
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #363636;
+    background-color: rgb(246, 246, 246);
+
 }
