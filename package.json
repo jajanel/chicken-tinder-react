@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-sandbox/heart": "^1.1.0",
     "bootswatch": "^5.3.3",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-animated-heart": "^0.0.8",
+    "react-dom": "^18.3.1",
+    "swiper": "^11.1.5"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
