@@ -1,0 +1,38 @@
+{
+  "profile": [
+    {
+    "name": "Cinderella",
+    "race": "Polish",
+    "age": "6",
+    "description": "Just a simple chick looking for someone to find worms with.",
+    "image": "https://paradepaets.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_1200%2Cx_697%2Cy_322/MjAzODc5MDIwMTk3MDYyMjA0/polish-chicken.jpg"
+  },
+  {
+    "name": "Pochohontas",
+    "race": "Silkie",
+    "age": "10",
+    "description": "Looking to have 8 babies.",
+    "image": "https://www.somerzby.com.au/wp-content/uploads/2019/04/Brown-traditional-silkie-chicken--e1554166243231.jpg"
+  },
+   {
+    "name": "Megatron",
+    "race": "Rhode Island Red",
+    "age": "2",
+    "description": "You can call me Megatron, but I'm really just a softie.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rhode_Island_Red_cock%2C_cropped.jpg"
+  },
+    {
+      "name": "Pikachu",
+      "race": "Brahma",
+      "age": "11",
+      "description": "The best looking cock in the coop.",
+      "image": "https://images.ctfassets.net/b85ozb2q358o/92fba63a76a8ee0594eff6790c28add72b08baa73277ab679fb346fa7115187b/d4efe54941449a02ee64b797914b5655/image.png"
+    },
+  {
+    "name": "Pauline",
+    "race": "Mix",
+    "age": "24",
+    "description": "The best looking chick in the coop.",
+    "image": "https://images.unsplash.com/photo-1471623817296-aa07ae5c9f47?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+}
+    ]}
