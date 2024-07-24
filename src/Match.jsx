@@ -1,5 +1,4 @@
 import {Modal, Button, Col, Row, Container, Card} from "react-bootstrap";
-import HeartButton from "./HeartButton.jsx";
 
 
 export default function Match() {
