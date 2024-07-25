@@ -10,7 +10,7 @@ export default function Header() {
         <>
             <Navbar expand="lg" className="nav bg-primary">
                 <Container fluid>
-                    <Navbar.Brand href="#">Chicken Tender</Navbar.Brand>
+                    <Navbar.Brand href="#home">Chicken Tender</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav
@@ -18,14 +18,14 @@ export default function Header() {
                             style={{maxHeight: '100px'}}
                             navbarScroll
                         >
-                            <Nav.Link href="#action1">Find Love</Nav.Link>
-                            <Nav.Link href="#action2">Matches</Nav.Link>
+                            <Nav.Link href="#findlove">Find Love</Nav.Link>
+                            <Nav.Link href="#matches">Matches</Nav.Link>
                         </Nav>
                             <SplitButton align="end" variant="secondary" title="My Profile">
-                                <Dropdown.Item href="#/action-1">See my Profile</Dropdown.Item>
-                                <Dropdown.Item href="#/action-2">My account</Dropdown.Item>
+                                <Dropdown.Item href="profile">See my Profile</Dropdown.Item>
+                                <Dropdown.Item href="#account">My account</Dropdown.Item>
                                 <Dropdown.Divider />
-                                <Dropdown.Item href="#/action-4">Log out</Dropdown.Item>
+                                <Dropdown.Item href="#logout">Log out</Dropdown.Item>
                             </SplitButton>
                     </Navbar.Collapse>
                 </Container>
