@@ -8,7 +8,7 @@ import CardProfile from "./CardProfile.jsx";
 import 'swiper/css';
 import 'swiper/css/effect-cards';
 
-import './style.css';
+import '../style.css';
 
 // import required modules
 import { EffectCards } from 'swiper/modules';
