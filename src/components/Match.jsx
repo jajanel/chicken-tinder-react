@@ -11,10 +11,10 @@ export default function Match() {
 
             <Modal.Dialog>
                 <Card>
-                    <Card.Header className="text-center text-uppercase">
-                        <Card.Title className="py-3 "> <strong> Its a match !</strong></Card.Title>
+                    <div className="text-center text-uppercase pt-4">
+                        <Card.Title className="pb-1 "> <strong> Its a match !</strong></Card.Title>
                         <Card.Subtitle> You and Chicken like each other </Card.Subtitle>
-                    </Card.Header>
+                    </div>
 
                     <Modal.Body className="text-center m-auto">
 
