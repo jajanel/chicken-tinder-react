@@ -12,6 +12,7 @@ import Profile from "./pages/profile";
 import Account from "./pages/account";
 import Logout from "./pages/logout";
 import Login from "./pages/login";
+import FooterComponent from "./components/FooterComponent.jsx";
 
 
 export default function App() {
@@ -28,6 +29,7 @@ export default function App() {
                 <Route path="/logout" element={<Logout />} />
                 <Route path="/login" element={<Login />}/>
             </Routes>
+            <FooterComponent />
         </Router>
     );
 
