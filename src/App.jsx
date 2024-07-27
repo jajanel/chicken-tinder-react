@@ -6,12 +6,12 @@ import {
     Route,
 } from "react-router-dom";
 import Index from "./pages";
-import FindLove from "./pages/findlove.jsx";
-import Matches from "./pages/matches.jsx";
-import Profile from "./pages/profile.jsx";
-import Account from "./pages/account.jsx";
-import Logout from "./pages/logout.jsx";
-import Login from "./pages/login.jsx";
+import FindLove from "./pages/findlove";
+import Matches from "./pages/matches";
+import Profile from "./pages/profile";
+import Account from "./pages/account";
+import Logout from "./pages/logout";
+import Login from "./pages/login";
 
 
 export default function App() {
@@ -20,7 +20,7 @@ export default function App() {
         <Router>
             <Header />
             <Routes>
-                <Route exact path="/" element={<Index />} />
+                <Route path="/" element={<Index />} />
                 <Route path="/findlove" element={<FindLove />} />
                 <Route path="/matches" element={<Matches />} />
                 <Route path="/profile" element={<Profile />} />
