@@ -1,8 +1,10 @@
+import SwiperCard from "../components/SwiperCard.jsx";
+
 export default function FindLove() {
     return (
-        <div>
-            <h1>find love</h1>
+        <>
+        <SwiperCard />
 
-        </div>
+        </>
     )
 }
