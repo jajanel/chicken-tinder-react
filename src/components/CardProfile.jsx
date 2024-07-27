@@ -1,6 +1,6 @@
 import SwipeButtons from "./SwipeButtons.jsx";
 import {
-    Card, CardImg, Col, Row
+    Card, Col, Row
 } from "react-bootstrap";
 import ProfilePicture from "./ProfilePicture.jsx";
 
